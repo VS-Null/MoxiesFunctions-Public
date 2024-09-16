@@ -1,16 +1,16 @@
 {
-    "name": "torchsfunctions",
+    "name": "moxiesfunctions",
     "license": "Public",
-    "description": "Just a collection of the functions that Torch has made for everyone to use",
-    "contributors": ["TorchTheDragon"],
-    "version": "0.5.0",
-    "releasenote": "Added 2 dependencies and a custom FlxRuntimeShader to allow for screen position grabbing and seeing camera bounds",
+    "description": "A fork of TorchesFunctions to add additional more functions",
+    "contributors": ["TorchTheDragon", "Moxie"],
+    "version": "0.1.0",
+    "releasenote": "Public release",
     "dependencies": {
         "flixel" : "",
         "lime" : "",
         "flixel-addons" : "",
         "openfl" : ""
     },
-    "url": "https://github.com/TorchTheDragon/TorchsFunctions",
+    "url": "https://github.com/VS-Null/MoxiesFunctions-Public",
     "classPath": "src"
 }
