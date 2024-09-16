@@ -2,7 +2,7 @@
     "name": "moxiesfunctions",
     "license": "Public",
     "description": "A fork of TorchesFunctions to add additional more functions",
-    "contributors": ["TorchTheDragon", "Moxie"],
+    "contributors": ["moxie-coder", "TorchTheDragon"],
     "version": "0.1.0",
     "releasenote": "Public release",
     "dependencies": {
