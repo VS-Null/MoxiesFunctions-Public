@@ -3,14 +3,9 @@
     "license": "Public",
     "description": "A fork of TorchesFunctions to add additional more functions",
     "contributors": ["moxie-coder", "TorchTheDragon"],
-    "version": "0.1.0",
-    "releasenote": "Public release",
-    "dependencies": {
-        "flixel" : "",
-        "lime" : "",
-        "flixel-addons" : "",
-        "openfl" : ""
-    },
+    "version": "0.1.1",
+    "releasenote": "Removed dependencies",
+    "dependencies": {},
     "url": "https://github.com/VS-Null/MoxiesFunctions-Public",
     "classPath": "src"
 }
